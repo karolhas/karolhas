@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 🖐 I am Karol Has</h1>
-<h3 align="center">I create sites with passion and simplicity 💻</h3>
+<h3 align="center">I create sites with simplicity and passion 💻</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 

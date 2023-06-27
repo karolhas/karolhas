@@ -4,7 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=karolhas&label=Profile%20views&color=0e75b6&style=flat" alt="karolhas" /> </h3>
-<br>
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **React and Typescript**

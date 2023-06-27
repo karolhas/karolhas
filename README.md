@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karol Has</h1>
+<h1 align="center">Hi 🖐 I am Karol Has</h1>
 <h3 align="center">A passionate Front-End Developer from Poland</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">

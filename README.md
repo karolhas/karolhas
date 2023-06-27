@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🖐 I am Karol Has</h1>
-<h3 align="center">A passionate Front-End Developer from Poland</h3>
-
+<h3 align="center">I create websites with passion and simplicity 💻</h3>
+<br>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karolhas&label=Profile%20views&color=0e75b6&style=flat" alt="karolhas" /> </p>

@@ -1,9 +1,10 @@
-<h1 align="center">Hi 🖐 I am Karol Has</h1>
-<h3 align="center">I create websites with passion and simplicity 💻</h3>
+<h1 align="center">Welcome 🖐 I am Karol Has</h1>
+<h3 align="center">I create sites with passion and simplicity 💻</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=karolhas&label=Profile%20views&color=0e75b6&style=flat" alt="karolhas" /> </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karolhas&label=Profile%20views&color=0e75b6&style=flat" alt="karolhas" /> </p>
+
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **React and Typescript**

@@ -8,7 +8,7 @@
 
 <h2 align="center"> 👨‍💻 About Me 👨‍💻</h2>
 <h3 align="center">
- <samp>I am an <b>ambitious, resourceful</b> Front-End Developer who creates websites with passion and simplicity. I currently work as a soldier and I spend every moment to creating a new projects or improving current code. I like to set goals and achieve them - <b>my current one is to get a job as a programmer! 🎯</b></samp>
+ <samp><b>Ambitious, resourceful</b> Front-End Developer who creates websites with passion and dedication. I currently work as a soldier and I spend every moment to creating a new projects or improving current code. I like to set goals and achieve them - <b>my current one is to get a job as a software developer! 🎯</b></samp>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=karolhas" alt="https://github.com/karolhas" />
 </h3>

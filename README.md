@@ -30,11 +30,3 @@
     <img src="https://skillicons.dev/icons?i=jest,nodejs,nextjs,express,mysql,mongodb,firebase,docker" />
   </a>
 </p>
-
-<hr>
-
-<h2 align="center">📊 Some Stats 📊</h2>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karolhas&theme=react&show_icons=true&locale=en&layout=compact" height="180" alt="karolhas" />
-    <img src="https://github-readme-stats.vercel.app/api?username=karolhas&theme=react&show_icons=true" height="180" />
-</div>

@@ -18,7 +18,7 @@
 <h2 align="center">🚀 My Technologies 🚀</h2>
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,mongodb,git,github,vscode" />
   </a>
 </p>
 

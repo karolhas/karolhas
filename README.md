@@ -27,6 +27,6 @@
 <h2 align="center">🧠 Want To Learn 🧠</h2>
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,jest,nodejs,nextjs,express,mysql,mongodb,firebase,docker,prisma,postgreesql" />
+    <img src="https://skillicons.dev/icons?i=ts,jest,nodejs,nextjs,express,mysql,mongodb,firebase,docker" />
   </a>
 </p>

@@ -9,8 +9,7 @@ qualifications.
 **Feel free to conect with me:**
 
 [![LinkedIn Badge](https://img.shields.io/badge/Karol_Has-blue?style=&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karolhas/)](https://www.linkedin.com/in/karolhas/)
-[![Instagram Badge](https://img.shields.io/badge/hskdaking-purple?style=&logo=instagram&logoColor=white&link=https://instagram.com/hskdaking/)](https://instagram.com/hskdaking)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FB542B?style=&logo=Microsoft-edge&logoColor=white&link=https://hskdev.vercel.app/)](https://hskdev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio_Website-FB542B?style=&logo=Microsoft-edge&logoColor=white&link=https://hskdev.vercel.app/)](https://hskdev.vercel.app/)
 [![Gmail Badge](https://img.shields.io/badge/-karolhas.kontakt@gmail.com-c14438?style=&logo=Gmail&logoColor=white&link=mailto:karolhas.kontakt@gmail.com)](mailto:karolhas.kontakt@gmail.com)
 ## ⚡ Technologies
 **Languages:**

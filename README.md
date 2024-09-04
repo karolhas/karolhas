@@ -31,15 +31,8 @@ qualifications.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=&logo=SASS&logoColor=white)
 
-**Testing:**
-
-![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=&logo=jest&logoColor=white)
-![cypress](https://img.shields.io/badge/-Cypress-%23E5E5E5?style=&logo=cypress&logoColor=058a5e)
-![Testing-Library](https://img.shields.io/badge/-Testing_Library-%23E33332?style=&logo=testing-library&logoColor=white)
-
 **Design:**
 
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=&logo=storybook&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer_Motion-black?style=&logo=framer&logoColor=blue)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=&logo=Canva&logoColor=white)

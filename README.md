@@ -6,7 +6,7 @@ my free time coding or improving existing projects and constantly
 learning. I am an ambitious person who likes to improve my skills and
 qualifications.
 
-**Feel free to conect with me:**
+**Feel free to connect with me:**
 
 [![LinkedIn Badge](https://img.shields.io/badge/Karol_Has-blue?style=&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karolhas/)](https://www.linkedin.com/in/karolhas/)
 [![Portfolio](https://img.shields.io/badge/My_Portfolio_Website-FB542B?style=&logo=Microsoft-edge&logoColor=white&link=https://hskdev.vercel.app/)](https://hskdev.vercel.app/)

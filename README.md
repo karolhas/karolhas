@@ -19,16 +19,20 @@ qualifications.
 ![JavaScript](https://img.shields.io/badge/Javascript-gold?style=&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=&logo=typescript&logoColor=white)
 
-**Frameworks, platform, libraries:**
+**Frameworks, libraries:**
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/NextJS-black?style=&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=&logo=vite&logoColor=gold)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=&logo=node.js&logoColor=white)
 ![i18n](https://img.shields.io/badge/i18n-darkgreen.svg?style=)
+
+
+**Styles:**
+
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=&logo=styled-components&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=&logo=bootstrap&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=&logo=styled-components&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=&logo=SASS&logoColor=white)
 
 **Design:**

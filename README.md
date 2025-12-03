@@ -1,8 +1,10 @@
 ## Hey! 🖐 My name is Karol, known as HSK 👨‍💻
 
-I’ve been passionately programming for the past 1.5 years, diving into new technologies and honing my skills through hands-on experience. Currently serving as a soldier, I dedicate my free time to coding, refining existing projects, and continuously expanding my knowledge.
+As a dedicated Fullstack Developer, I am deeply committed to creating functional and scalable solutions. My passion lies in actively exploring new technologies and consistently honing my craft through intensive, hands-on coding.
 
-As an ambitious developer, I'm committed to improving my skill set and qualifications. I believe in the power of learning through practice and am excited to connect with like-minded individuals.
+I specialize in building robust applications with the core objective of solving real-world problems, optimizing business processes, and delivering tangible business value or profit.
+
+In my personal time, I regularly dedicate myself to coding, refactoring existing projects, and continuously expanding my knowledge base. I firmly believe in the power of learning by doing and am always keen to connect with like-minded professionals to foster mutual growth.
 
 **Feel free to reach out:**
 
